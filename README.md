@@ -6,16 +6,13 @@ This repository serves as a **comprehensive explanation-only guide** to understa
 
 ## 📌 Table of Contents
 
-1. [What Are Functions in JavaScript?]
-2. [Types of Functions]
-3. [Arrow Functions]
-4. [Differences Between Regular and Arrow Functions](#4-differences-between-regular-and-arrow-functions)
-5. [Function Parameters and Rest Syntax](#5-function-parameters-and-rest-syntax)
-6. [Default Parameters](#6-default-parameters)
-7. [Destructuring Objects in Function Parameters](#7-destructuring-objects-in-function-parameters)
-8. [Function Expressions vs Declarations](#8-function-expressions-vs-declarations)
-9. [Immediately Invoked Function Expressions (IIFE)](#9-immediately-invoked-function-expressions-iife)
-10. [Anonymous Functions](#10-anonymous-functions)
+1. What Are Functions in JavaScript?
+2. Types of Functions
+3. Arrow Functions
+4. Differences Between Regular and Arrow Functions
+5. Function Parameters and Rest Syntax
+6. Default Parameters
+7. Destructuring Objects in Function Parameters
 
 ---
 
