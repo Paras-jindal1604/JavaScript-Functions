@@ -102,7 +102,7 @@ Nested destructuring is also supported to extract deep values inline.
 
 ## 🧑‍💻 Author
 
-Created by Paras Jindal (https://github.com/Paras-jindal1604) as part of a focused effort to master JavaScript core concepts.
+Created by [Paras Jindal](https://github.com/Paras-jindal1604) as part of a focused effort to master JavaScript core concepts.
 
 ---
 
